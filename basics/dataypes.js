@@ -1,5 +1,5 @@
 console.log(3+3)
-console.log("ishu");
+    console.log("ishu");
 let name = "ishu"
 let age = 24
 let isloggedin=false
